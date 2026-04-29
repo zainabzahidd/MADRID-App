@@ -1,7 +1,3 @@
-"""
-MADRID Airport Investment Prioritization — Streamlit Web Application
-Author: Zainab Zahid (24L-7362) | FAST-NUCES, MSBA-4A
-"""
 
 import streamlit as st
 import pandas as pd
